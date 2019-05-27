@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<questions>
+  <question minutes="3">
+    <text>Русская мера длины сажень соответствует?</text>
+    <variants>
+      <variant>1)300см</variant>
+      <variant>2)325см</variant>
+      <variant right="true">3)213см</variant>
+      <variant>4)167см</variant>
+    </variants>
+  </question>
+  <question minutes="2">
+    <text>Русская мера длины пядь соответствует?</text>
+    <variants>
+      <variant>1)25,28см</variant>
+      <variant>2)50см</variant>
+      <variant>3)32,78см</variant>
+      <variant right="true">4)17,78см</variant>
+    </variants>
+  </question>
+  <question minutes="1">
+    <text>Русская мера длины верста соответствует?</text>
+    <variants>
+      <variant right="true">1)1066м</variant>
+      <variant>2)1255м</variant>
+      <variant>3)500м</variant>
+      <variant>4)820м</variant>
+    </variants>
+  </question>
+  <question minutes="4">
+    <text>Русская мера веса берковец равна?</text>
+    <variants>
+      <variant>1)183,8кг</variant>
+      <variant right="true">2)163,8кг</variant>
+      <variant>3)200,8кг</variant>
+      <variant>4)135,8кг</variant>
+    </variants>
+  </question>
+  <question minutes="3">
+    <text>Русская мера веса фунт равна?</text>
+    <variants>
+      <variant>1)280грам</variant>
+      <variant right="true">2)410грам</variant>
+      <variant>3)510грам</variant>
+      <variant>4)380грам</variant>
+    </variants>
+  </question>
+  <question minutes="2">
+    <text>Русская мера веса золотник равен?</text>
+    <variants>
+      <variant>1)6,266грам</variant>
+      <variant>2)5,266грам</variant>
+      <variant>3)7,266грам</variant>
+      <variant right="true">4)4,266грам</variant>
+    </variants>
+  </question>
+  <question minutes="1">
+    <text>Русская мера объёма жидкости чарка соответствует?</text>
+    <variants>
+      <variant right="true">1)0,123л</variant>
+      <variant>2)0,225л</variant>
+      <variant>3)0,08л</variant>
+      <variant>4)0,1л</variant>
+    </variants>
+  </question>
+  <question minutes="3">
+    <text>Русская мера объёма жидкости корчага равна?</text>
+    <variants>
+      <variant>1)15л</variant>
+      <variant right="true">2)50л</variant>
+      <variant>3)25л</variant>
+      <variant>4)30л</variant>
+    </variants>
+  </question>
+</questions>
